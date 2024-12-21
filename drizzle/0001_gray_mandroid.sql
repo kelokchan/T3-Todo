@@ -1,0 +1,1 @@
+ALTER TABLE `todolist-t3_todo` ADD `done` integer DEFAULT 0;
